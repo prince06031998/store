@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Laptop HH	</title>
+	<atom:link href="http://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prince06031998.github.io/store</link>
+	<description>Laptop no1 VietNam</description>
+	<lastBuildDate>Mon, 21 Jun 2021 14:30:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Phản hồi cho HomePage bởi Hoàng Lê		</title>
+		<link>https://prince06031998.github.io/store/home/#comment-50</link>
+
+		<dc:creator><![CDATA[Hoàng Lê]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 14:30:18 +0000</pubDate>
+		<guid isPermaLink="false">https://prince06031998.github.io/store/home/#comment-50</guid>
+
+					<description><![CDATA[good shop]]></description>
+			<content:encoded><![CDATA[<p>good shop</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho 525f2b49876332a9b56e253b8ac449d8 bởi le lan		</title>
+		<link>https://prince06031998.github.io/store/525f2b49876332a9b56e253b8ac449d8/#comment-43</link>
+
+		<dc:creator><![CDATA[le lan]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 10:13:15 +0000</pubDate>
+		<guid isPermaLink="false">https://prince06031998.github.io/store/wp-content/uploads/2021/06/525f2b49876332a9b56e253b8ac449d8.jpeg#comment-43</guid>
+
+					<description><![CDATA[đẹp]]></description>
+			<content:encoded><![CDATA[<p>đẹp</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
